@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LibronisBackendApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(LibronisBackendApplication.class, args);
+
 	}
 
 }
